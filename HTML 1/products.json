@@ -1,0 +1,5 @@
+
+[
+  { "id": "1", "name": "Smart Watch", "category": "Electronics", "price": 99.99, "image": "assets/images/watch.jpg" },
+  { "id": "2", "name": "JavaScript Book", "category": "Books", "price": 29.99, "image": "assets/images/jsbook.jpg" }
+]
